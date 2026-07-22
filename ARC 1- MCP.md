@@ -1,0 +1,3 @@
+- https://github.com/arc-mcp/arc-1/blob/main/skills/sap-clean-core-atc/SKILL.md
+	- Arc-1 has ATC Skill to ensure Clean-Core-Principles
+- 
