@@ -1,0 +1,2 @@
+- https://github.com/SAP/styleguides/blob/main/clean-abap/CleanABAP_de.md
+	- Deutsche Clean ABAP Regeln
