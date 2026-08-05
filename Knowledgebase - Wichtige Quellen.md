@@ -6,3 +6,5 @@
 		  "repo": "styleguides",
 		  "path": "clean-abap/CleanABAP.md"
 		}
+https://1dsag.github.io/ABAP-Leitfaden/
+- DSAG ABAP-Leitfaden
