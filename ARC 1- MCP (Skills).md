@@ -1,4 +1,5 @@
 - https://github.com/arc-mcp/arc-1/
+  https://github.com/arc-mcp/arc-1/blob/main/skills/README.md
 
 -----
 # Dokumentation: Integration der ARC-1 Skills in den Syskopilot - CleanCore Agent
