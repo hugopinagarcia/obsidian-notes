@@ -1,5 +1,5 @@
 - https://github.com/arc-mcp/arc-1/
 
 -----
-### Überschrig
+### Überschrift
 
